@@ -1,0 +1,14 @@
+input[type=number] {
+  -moz-appearance: textfield;
+}
+      
+#loading{
+  width:50%;
+  margin:0 auto;
+  height:50%;
+  display: none;
+}
+
+#results{
+  display:none;
+} 
